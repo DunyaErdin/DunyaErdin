@@ -1,4 +1,4 @@
-![MasterHead](https://sdmntprnortheu.oaiusercontent.com/files/00000000-c450-61f4-8d30-8c49459a6998/raw?se=2025-06-14T12%3A33%3A28Z&sp=r&sv=2024-08-04&sr=b&scid=b612c4b4-b456-5296-8e93-212b57299e5d&skoid=b928fb90-500a-412f-a661-1ece57a7c318&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-14T07%3A55%3A58Z&ske=2025-06-15T07%3A55%3A58Z&sks=b&skv=2024-08-04&sig=v9mC0p%2B2cldv57QRdWCsOP41x7%2BenQqoNBHOCEqI7zM%3D)
+![MasterHead]([http://erdinconsulting.xyz/Content/ppgit.png])
 <h1 align="center">Hi 👋, I'm Işık Dünya Erdin</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
