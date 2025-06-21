@@ -1,4 +1,4 @@
-[![MasterHead](http://erdinconsulting.xyz/Content/ppgit.png)
+![MasterHead](http://erdinconsulting.xyz/Content/ppgit.png)
 <h1 align="center">Hi 👋, I'm Işık Dünya Erdin</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
