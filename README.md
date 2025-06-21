@@ -1,4 +1,4 @@
-![MasterHead](https://chatgpt.com/s/m_6856711920708191bc521f341da7892f)
+[![MasterHead](https://chatgpt.com/s/m_6856711920708191bc521f341da7892f)
 <h1 align="center">Hi 👋, I'm Işık Dünya Erdin</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
