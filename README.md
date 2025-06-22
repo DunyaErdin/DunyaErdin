@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/DunyaErdin/Images/blob/main/gitpp.png)
+![MasterHead](https://github.com/DunyaErdin/DunyaErdin/blob/master/main.png)
 <h1 align="center">Hi 👋, I'm Işık Dünya Erdin</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
