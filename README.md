@@ -4,7 +4,7 @@
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=dunyaerdin" alt="dunyaerdin" /></a></p>
 
-- 🔭 I’m currently working on **Unity,C#MVC**
+- 🔭 I’m currently working on **Web Automation and MVC Web Applications: Developing web applications with ASP.NET Core MVC**
 
 - 🌱 I’m currently learning **Angular,Java**
 
