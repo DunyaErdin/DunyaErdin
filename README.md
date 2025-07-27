@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular,Java**
 
-- 💬 Ask me about **C#,ReactJS,.NET,JS**
+- 💬 Ask me about **Feel free to ask me about C#, Python, Web Automation, MVC, JavaScript, React.js, and more!**
 
 - 📫 How to reach me **isikdunya5@gmail.com**
 
