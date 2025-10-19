@@ -11,7 +11,7 @@
 ---
 
 ### 💻 About Me  
-- 🔭 **Currently working on:** [![Projects](https://img.shields.io/badge/Now_Building-Web%20Automation%20%26%20MVC%20Systems-blueviolet?style=flat-square&logo=visualstudio)](https://github.com/DunyaErdin)  
+- 🔭 **Currently working on:** [![Projects](https://img.shields.io/badge/Now_Building-NestJS_%2B_React_Projects-ff0000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/DunyaErdin)
 - 🌱 **Learning:** Angular, Java  
 - 💬 **Ask me about:** C#, Python, Web Automation, MVC, JavaScript, React.js, and more  
 - 📫 **Reach me:** **isikdunya5@gmail.com**
