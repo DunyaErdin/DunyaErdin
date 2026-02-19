@@ -14,8 +14,19 @@
 
 ---
 
+### 🚀 Current Focus & Projects
+
+- 🏗️ **Enterprise Grade Backend System:** I'm currently architecting a massive-scale production system. 
+  - **Tech:** Leveraging a polyglot architecture (multiple languages), orchestrating complex message flows with **RabbitMQ**, and optimizing performance via **Redis** distributed caching.
+  - **Goal:** High availability, extreme scalability, and rock-solid security.
+
+- 🤖 **FRC Robotics:** Proudly contributing to my **FRC Team**, developing robust control systems and high-performance embedded code to keep the bot moving at peak efficiency.
+
+- 🛍️ **Modern E-Commerce Engine:** Building a full-stack experience using the **NestJS + React** powerhouse. Focused on clean code, modular architecture, and seamless user journeys.
+
 ### 💻 About Me  
-- 🔭 **Currently working on:** [![Projects](https://img.shields.io/badge/Now_Building-NestJS_%2B_React_Projects-ff0000?style=flat-square&logo=react&logoColor=white)](https://github.com/DunyaErdin)
+
+- 🌱 **Learning Path:** Mastering `Go` for high-performance microservices and `Angular` for enterprise-grade frontend consistency.
 - 🌱 **Learning Path:** `Angular` & `Go` (High Performance Systems)
 - 💬 **Ask me about:** C#, Python, Web Automation, MVC, JavaScript, React.js
 - 📫 **Reach me:** [isikdunya5@gmail.com](mailto:isikdunya5@gmail.com)
