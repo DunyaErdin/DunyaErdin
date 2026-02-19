@@ -35,7 +35,7 @@
 
 ---
 
-### 🧠 Skills & Tech Stack (A-Z)
+### 🧠 Skills & Tech Stack
 
 #### 🚀 Languages & Core
 <p align="left">
