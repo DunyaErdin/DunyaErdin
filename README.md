@@ -125,7 +125,7 @@
 </p>
 
 <div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
   <p><em>“Sometimes I debug my own thoughts — not just my code.”</em><br><strong>— Işık Dünya Erdin —</strong></p>
+    <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </div>
