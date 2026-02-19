@@ -22,7 +22,7 @@
 
 ---
 
-### 🧠 Languages & Tools (A-Z)
+### 🧠 Languages & Tools
 > Yetenek havuzumdaki tüm teknolojilerin düzenli ve kategorize edilmiş listesi.
 
 #### 🏗️ Development & Frameworks
