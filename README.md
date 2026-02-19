@@ -65,7 +65,6 @@
 
 #### 🎨 Design & Testing & Automation
 <p align="left">
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/956px-Logo_Aseprite.svg.png" width="45" height="45" alt="Aseprite"/></a>&nbsp;
   <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/></a>&nbsp;
   <a href="#"><img src="https://www.chartjs.org/media/logo-title.svg" width="45" height="45" alt="Chart.js"/></a>&nbsp;
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a>&nbsp;
