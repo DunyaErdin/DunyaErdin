@@ -20,7 +20,7 @@
   - **Tech:** Leveraging a polyglot architecture (multiple languages), orchestrating complex message flows with **RabbitMQ**, and optimizing performance via **Redis** distributed caching.
   - **Goal:** High availability, extreme scalability, and rock-solid security.
 
-- 🤖 **FRC Robotics:** Proudly contributing to my **FRC Team**, developing robust control systems and high-performance embedded code to keep the bot moving at peak efficiency.
+- 🤖 **FRC Robotics:** Proudly contributing to my **FRC Team #6038**, developing robust control systems and high-performance embedded code to keep the bot moving at peak efficiency.
 
 - 🛍️ **Modern E-Commerce Engine:** Building a full-stack experience using the **NestJS + React** powerhouse. Focused on clean code, modular architecture, and seamless user journeys.
 
