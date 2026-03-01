@@ -70,7 +70,7 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>&nbsp;
   <a href="#"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="MSSQL"/></a>&nbsp;
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>&nbsp;
-  <a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbps;
+  <a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45" height="45" alt="RabbitMQ"/></a>&nbsp;
   <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/></a>
 </p>
