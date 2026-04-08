@@ -56,6 +56,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>&nbsp;
   <a href="#"><img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/></a>&nbsp;
+  <a href="https://www.rust-lang.org"> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/></a>&nbsp;
   <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" width="45" height="45" alt="Xamarin"/></a>
