@@ -82,7 +82,7 @@
   <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/></a>&nbsp;
   <a href="#"><img src="https://www.chartjs.org/media/logo-title.svg" width="45" height="45" alt="Chart.js"/></a>&nbsp;
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a>&nbsp;
-  <a href="#"><img src="https://www.svgviewer.dev/static-svgs/476263/maya.svg" width="45" height="45" alt="Maya"/></a>&nbsp;
+  <a href="#"><img src="https://logosandtypes.com/wp-content/uploads/2025/03/Maya.png" width="45" height="45" alt="Maya"/></a>&nbsp;
   <a href="#"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45" alt="OpenCV"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45" alt="Photoshop"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/gist/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8/raw/a8ef57341f4efbc86544bc65d8c0f14387ceec9f/playwright_svg.svg" width="45" height="45" alt="Playwright"/></a>&nbsp;
