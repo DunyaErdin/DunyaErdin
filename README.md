@@ -38,45 +38,44 @@
 
 #### 🏗️ Development & Frameworks
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="45" height="45" alt="AngularJS"/></a>&nbsp;
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="Arduino"/></a>&nbsp;
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45" alt="Bash"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/></a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET"/></a>&nbsp;
-  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>&nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>&nbsp;
-  <a href="#"><img src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg" width="45" height="45" alt="NestJS"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="NodeJS"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>&nbsp;
-  <a href="#"><img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/></a>&nbsp;
-  <a href="https://www.rust-lang.org"> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/></a>&nbsp;
-  <a href="https://tailwindcss.com/"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="45" height="45" alt="AngularJS"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="Arduino"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45" alt="Bash"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET"/></a>
+  <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>
+  <a href="#"><img src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg" width="45" height="45" alt="NestJS"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="NodeJS"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/></a>
+  <a href="#"><img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native"/></a>
+  <a href="https://www.rust-lang.org"><img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" width="45" height="45" alt="Xamarin"/></a>
 </p>
 
 #### 💾 Databases & DevOps
 <p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/></a>&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/></a>&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/></a>&nbsp;
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP"/></a>&nbsp;
-  <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes"/></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>&nbsp;
-  <a href="#"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="MSSQL"/></a>&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>&nbsp;
-  <a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45" height="45" alt="RabbitMQ"/></a>&nbsp;
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP"/></a>
+  <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/></a>
+  <a href="#"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="MSSQL"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45" height="45" alt="RabbitMQ"/></a>
   <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/></a>
 </p>
-
 #### 🎨 Design & Testing & Automation
 <p align="left">
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" width="45" height="45" alt="Adobe After Effects"/></a>&nbsp;
