@@ -49,7 +49,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET"/></a>&nbsp;
   <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/></a>&nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/></a>&nbsp;
   <a href="#"><img src="https://d33wubrfki0l68.cloudfront.net/49c2be6f2607b5c12dd27f8ecc8521723447975d/f05c5/logo-small.cbbeba89.svg" width="45" height="45" alt="NestJS"/></a>&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="NodeJS"/></a>&nbsp;
@@ -79,6 +79,8 @@
 
 #### 🎨 Design & Testing & Automation
 <p align="left">
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" width="45" height="45" alt="Adobe After Effects"/><</a>&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/3840px-Adobe_Animate_CC_icon.svg.png" width="45" height="45" alt="Adobe Animate" /></a>&nbsp;
   <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/></a>&nbsp;
   <a href="#"><img src="https://www.chartjs.org/media/logo-title.svg" width="45" height="45" alt="Chart.js"/></a>&nbsp;
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a>&nbsp;
