@@ -79,8 +79,8 @@
 
 #### 🎨 Design & Testing & Automation
 <p align="left">
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" width="45" height="45" alt="Adobe After Effects"/><</a>&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/3840px-Adobe_Animate_CC_icon.svg.png" width="45" height="45" alt="Adobe Animate" /></a>&nbsp;
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" width="45" height="45" alt="Adobe After Effects"/></a>&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/3840px-Adobe_Animate_CC_icon.svg.png" width="45" height="45" alt="Adobe Animate"/></a>&nbsp;
   <a href="#"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/></a>&nbsp;
   <a href="#"><img src="https://www.chartjs.org/media/logo-title.svg" width="45" height="45" alt="Chart.js"/></a>&nbsp;
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a>&nbsp;
