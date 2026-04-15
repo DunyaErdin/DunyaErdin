@@ -156,14 +156,6 @@
 
 ---
 
-<h2 align="center">⭐ Featured Projects</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DunyaErdin&repo=awesome-enterprise-backend&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DunyaErdin&repo=frc-robotics-control&theme=tokyonight"/>
-</p>
-
----
-
 <h2 align="center">💬 Random Developer Insight</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
