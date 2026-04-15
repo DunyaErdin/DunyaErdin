@@ -59,9 +59,11 @@
 <details>
 <summary><b>🏗️ Development & Frameworks</b></summary>
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
+  <img width="5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="45" height="45" alt="AngularJS"/>
+  <img width="5"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="Arduino"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45" alt="Bash"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
@@ -82,12 +84,12 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" width="45" height="45" alt="Xamarin"/>
-</p>
+</div>
 </details>
 
 <details>
 <summary><b>💾 Databases & DevOps</b></summary>
-<p align="center">
+<div align="center">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
@@ -99,12 +101,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="45" height="45" alt="RabbitMQ"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/>
-</p>
+</div>
 </details>
 
 <details>
 <summary><b>🎨 Design & Testing & Automation</b></summary>
-<p align="center">
+<div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/after-effects-2019.svg" width="45" height="45" alt="Adobe After Effects"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adobe_Animate_CC_icon.svg/3840px-Adobe_Animate_CC_icon.svg.png" width="45" height="45" alt="Adobe Animate"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/>
@@ -118,7 +120,7 @@
   <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="45" height="45" alt="Puppeteer"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="45" height="45" alt="Selenium"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45" height="45" alt="Unity"/>
-</p>
+</div>
 </details>
 
 ---
