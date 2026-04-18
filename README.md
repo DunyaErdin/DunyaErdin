@@ -83,7 +83,7 @@
   <summary><b>🧩 Additional Tools & Platforms</b></summary>
   <br/>
   <p align="center">
-    <img src="./assets/extra-tools-row.svg" alt="Additional Tools and Platforms" width="860" />
+    <img src="./assets/Others.svg" alt="Additional Tools and Platforms" width="315" />
   </p>
 </details>
 
