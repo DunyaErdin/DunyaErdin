@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=1E3A5C&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+I%C5%9F%C4%B1k+D%C3%BCnya+Erdin;Backend+Architect;Architecting+Scalable+%26+Resilient+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=1E3A5C&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+I%C5%9F%C4%B1k+D%C3%BCnya+Erdin;Backend+Architect;Scalable+%26+Resilient+Systems" alt="Typing SVG"/>
 </h1>
-
 <p align="center">
   <em><b>“I develop systems that solve real-world problems — efficiently, securely, and elegantly.”</b></em>
 </p>
