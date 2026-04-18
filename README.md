@@ -43,7 +43,7 @@
 
 <h2 align="center">💻 About Me</h2>
 
-- 🌱 <b>Learning Path:</b> Mastering <code>Go</code> for high-performance microservices and <code>Angular</code> for enterprise-grade frontend consistency
+- 🌱 <b>Learning Path:</b> Exploring <code>AI & LLM systems</code>, focusing on model training and inference, while advancing in <code>Mojo</code> for high-performance computing and <code>Elixir</code> for distributed systems
 - 💬 <b>Ask me about:</b> C#, Python, Web Automation, MVC, JavaScript, React.js
 - 📫 <b>Reach me:</b> <a href="mailto:isikdunya5@gmail.com">isikdunya5@gmail.com</a>
 
