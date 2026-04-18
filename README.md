@@ -56,11 +56,9 @@
   <summary><b>🏗️ Development & Frameworks</b></summary>
   <br/>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,py,ts,js,java,rust,cpp,bash,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,lua,go,py,ts,js,java,rust,cpp,bash,html,css,react,angular,tailwind,bootstrap,nodejs,nestjs,vite,arduino&perline=7" />
   </p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,nodejs,nestjs,arduino&perline=4" />
-  </p>
+
 </details>
 
 <details open>
@@ -75,13 +73,8 @@
   <summary><b>🛠️ Testing, Automation & Tooling</b></summary>
   <br/>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,selenium,postman,opencv,unity&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,selenium,powershell,postman,opencv,linux,kali,ubuntu,unity,npm,yarn,ps&perline=6" />
   </p>
-</details>
-
-<details open>
-  <summary><b>🧩 Additional Tools & Platforms</b></summary>
-  <br/>
   <p align="center">
     <img src="./assets/Others.svg" alt="Additional Tools and Platforms" width="315" />
   </p>
